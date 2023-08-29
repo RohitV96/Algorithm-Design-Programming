@@ -1,1 +1,1 @@
-# Algorithm-Design-Programming
+I wrote programs in Python to prompt the user to input their name, employee number, week ending date, hours worked, rate per hour, and standard and overtime tax percentage rate. Used the data input to calculate gross pay, tax deductions, and net pay, and other programs containing the Phone Book System in Python, which allows users to add, delete, update, and lookup phone numbers.
